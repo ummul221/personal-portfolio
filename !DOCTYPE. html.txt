@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ummul Urmi - Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Ummul Urmi</h1>
+    <p>Web Developer | Python Enthusiast | Student</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Ummul Urmi, a passionate developer learning to build cool things with code.</p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Number Guessing Game</strong> – A fun CLI game written in Python.</li>
+      <li><strong>To-Do App</strong> – A basic to-do app to manage daily tasks.</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:hossainurmi221@gmail.com">hossainurmi221@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/ummul221">github.com/ummul221</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Ummul Urmi</p>
+  </footer>
+</body>
+</html>
